@@ -1,19 +1,19 @@
-![C_TSPBBO](https://socialify.git.ci/walidbosso/C_TSPBBO/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![c-tsp-bbo](https://socialify.git.ci/danield36/c-tsp-bbo/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 <p align="center">
-<a href="https://github.com/walidbosso/C_TSPBBO">
+<a href="https://github.com/danield36/c-tsp-bbo">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/C_TSPBBO)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=danield36&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/danield36/c-tsp-bbo)
 
   <p align="center">
-<a href="https://github.com/walidbosso/C_TSPBBO">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FC_TSPBBO&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/danield36/c-tsp-bbo">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanield36%2Fc-tsp-bbo&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/C_TSPBBO">
+<a href="https://github.com/danield36/c-tsp-bbo">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -21,7 +21,7 @@
 
 <br/>
 
-# C_TSPBBO - Biogeography-Based Optimization for Traveling Salesman Problem
+# c-tsp-bbo - Biogeography-Based Optimization for Traveling Salesman Problem
 
 </div>
 
@@ -29,7 +29,7 @@
 
 
 
-Welcome to the C_TSPBBO project! This implementation focuses on utilizing the Biogeography-Based Optimization (BBO) algorithm to solve the Traveling Salesman Problem (TSP) using the C programming language.
+Welcome to the c-tsp-bbo project! This implementation focuses on utilizing the Biogeography-Based Optimization (BBO) algorithm to solve the Traveling Salesman Problem (TSP) using the C programming language.
 
 ## Overview
 
@@ -55,9 +55,6 @@ This project addresses the challenge of solving the Traveling Salesman Problem (
 
 This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
 
-## About the Author
-
-© by Walid BOUSSOU 🇲🇦 😄
 
 ## Contributions
 
@@ -71,9 +68,9 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/walidbosso/C_TSPBBO/issues) page.
+If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/danield36/c-tsp-bbo/issues) page.
 
-Thank you for exploring the C_TSPBBO project! 🚀
+Thank you for exploring the c-tsp-bbo project! 🚀
 
 <div align="center">
   
@@ -90,7 +87,7 @@ Thank you for exploring the C_TSPBBO project! 🚀
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/C_TSPBBO](http://reporoster.com/stars/dark/walidbosso/C_TSPBBO)](https://github.com/walidbosso/C_TSPBBO/stargazers)
+[![Stargazers repo roster for @danield36/c-tsp-bbo](http://reporoster.com/stars/dark/danield36/c-tsp-bbo)](https://github.com/danield36/c-tsp-bbo/stargazers)
 
 
 
@@ -100,14 +97,14 @@ Thank you for exploring the C_TSPBBO project! 🚀
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/C_TSPBBO](http://reporoster.com/forks/dark/walidbosso/C_TSPBBO)](https://github.com/walidbosso/C_TSPBBO/network/members)
+[![Forkers repo roster for @danield36/c-tsp-bbo](http://reporoster.com/forks/dark/danield36/c-tsp-bbo)](https://github.com/danield36/c-tsp-bbo/network/members)
 
 </div>
 
 ## Contributors
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/C_TSPBBO"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://contrib.rocks/image?repo=danield36/c-tsp-bbo"/>
 </a>
 
 
@@ -116,30 +113,30 @@ Thank you for exploring the C_TSPBBO project! 🚀
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/C_TSPBBO?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/danield36/c-tsp-bbo?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/C_TSPBBO?style=social)
+![GitHub License](https://img.shields.io/github/license/danield36/c-tsp-bbo?style=social)
 
  <p align="center">
-<a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
+<a href="https://www.buymeacoffee.com/danield36"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=danield36&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
 </p>
 
 
 </div>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
-<a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
+<a href = "https://github.com/danield36">
+  <img src = "https://github.com/danield36/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
